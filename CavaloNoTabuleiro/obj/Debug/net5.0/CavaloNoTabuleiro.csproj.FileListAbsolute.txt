@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\CavaloNoTabuleiro\CavaloNoTabuleiro\bin\Debug\net5.0\CavaloNoTabuleiro.exe
+C:\Users\Usuario\source\repos\CavaloNoTabuleiro\CavaloNoTabuleiro\bin\Debug\net5.0\CavaloNoTabuleiro.deps.json
+C:\Users\Usuario\source\repos\CavaloNoTabuleiro\CavaloNoTabuleiro\bin\Debug\net5.0\CavaloNoTabuleiro.runtimeconfig.json
+C:\Users\Usuario\source\repos\CavaloNoTabuleiro\CavaloNoTabuleiro\bin\Debug\net5.0\CavaloNoTabuleiro.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\CavaloNoTabuleiro\CavaloNoTabuleiro\bin\Debug\net5.0\CavaloNoTabuleiro.dll
+C:\Users\Usuario\source\repos\CavaloNoTabuleiro\CavaloNoTabuleiro\bin\Debug\net5.0\ref\CavaloNoTabuleiro.dll
+C:\Users\Usuario\source\repos\CavaloNoTabuleiro\CavaloNoTabuleiro\bin\Debug\net5.0\CavaloNoTabuleiro.pdb
+C:\Users\Usuario\source\repos\CavaloNoTabuleiro\CavaloNoTabuleiro\obj\Debug\net5.0\CavaloNoTabuleiro.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\CavaloNoTabuleiro\CavaloNoTabuleiro\obj\Debug\net5.0\CavaloNoTabuleiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\CavaloNoTabuleiro\CavaloNoTabuleiro\obj\Debug\net5.0\CavaloNoTabuleiro.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CavaloNoTabuleiro\CavaloNoTabuleiro\obj\Debug\net5.0\CavaloNoTabuleiro.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CavaloNoTabuleiro\CavaloNoTabuleiro\obj\Debug\net5.0\CavaloNoTabuleiro.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CavaloNoTabuleiro\CavaloNoTabuleiro\obj\Debug\net5.0\CavaloNoTabuleiro.dll
+C:\Users\Usuario\source\repos\CavaloNoTabuleiro\CavaloNoTabuleiro\obj\Debug\net5.0\ref\CavaloNoTabuleiro.dll
+C:\Users\Usuario\source\repos\CavaloNoTabuleiro\CavaloNoTabuleiro\obj\Debug\net5.0\CavaloNoTabuleiro.pdb
+C:\Users\Usuario\source\repos\CavaloNoTabuleiro\CavaloNoTabuleiro\obj\Debug\net5.0\CavaloNoTabuleiro.genruntimeconfig.cache
